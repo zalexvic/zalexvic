@@ -15,7 +15,7 @@ I'm writing some code, usually in Python. Also I have some experience with C, C+
 </p>
 
 ## :mailbox: Reach me
-<a href="https://t.me/zalexvic" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="mailto:azaburdyaev1@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://t.me/zalexvic" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
 ## :chart_with_upwards_trend: My Github Stats
 
