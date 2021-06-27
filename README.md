@@ -11,7 +11,7 @@ I'm writing some code, mostly in Python. Also I have some experience with C, C++
 
 ## :computer: Examples of my projects
 <p align="center">
-<kbd><a href="https://github.com/zalexvic/python-django-chat" target="_blank"><img src="https://github.com/zalexvic/zalexvic/blob/main/chat.gif" width="300" height="300" /></a></kbd> <kbd><a href="https://github.com/zalexvic/python-url-shortener" target="_blank"><img src="https://github.com/zalexvic/zalexvic/blob/main/shortener.gif" width="300" height="300" /></a></kbd> <kbd><a href="https://github.com/zalexvic/python-django-quiz" target="_blank"><img src="https://github.com/zalexvic/zalexvic/blob/main/quiz.gif" width="300" height="300" /></a></kbd>
+<kbd style="margin: 0 1em 0 0;"><a href="https://github.com/zalexvic/python-django-chat" target="_blank"><img src="https://github.com/zalexvic/zalexvic/blob/main/chat.gif" width="300" height="300" /></a></kbd> <kbd style="margin: 0 1em 0 0;"><a href="https://github.com/zalexvic/python-url-shortener" target="_blank"><img src="https://github.com/zalexvic/zalexvic/blob/main/shortener.gif" width="300" height="300" /></a></kbd> <kbd><a href="https://github.com/zalexvic/python-django-quiz" target="_blank"><img src="https://github.com/zalexvic/zalexvic/blob/main/quiz.gif" width="300" height="300" /></a></kbd>
 </p>
 
 ## :mailbox: Reach me
